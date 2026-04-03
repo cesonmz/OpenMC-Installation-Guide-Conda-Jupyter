@@ -1,4 +1,4 @@
-# OpenMC-Installation-Guide-Conda-Jupyter-
+# OpenMC-Installation-Guide-Conda-Jupyter
 
 This repository provides a step-by-step guide to installing OpenMC from scratch using Conda. It is designed for students, researchers, and engineers who want a reliable, reproducible setup for nuclear simulation workflows.
 
